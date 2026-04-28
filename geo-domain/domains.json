@@ -1,9 +1,10 @@
 {
-  "version": 3,
-  "rules": [
-    {
-      "domain_suffix": [
-        "2ip.ru"
+"version":3,
+"rules": [
+  {
+  "domain_suffix": [
+    "www.speedtest.net",
+    "2ip.ru"
       ]
     }
   ]
