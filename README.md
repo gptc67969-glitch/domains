@@ -17,5 +17,9 @@ Examples on how to use the project effectively.
 ## Contributing
 Guidelines for contributing to the project.
 
+RAW:
+1. geo-domain - https://raw.githubusercontent.com/gptc67969-glitch/domains/main/geo-domain/domains.lst
+2. geo-ip - https://raw.githubusercontent.com/gptc67969-glitch/domains/main/geo-ip/subnets.lst
+
 ## License
 Information about the project's license.
